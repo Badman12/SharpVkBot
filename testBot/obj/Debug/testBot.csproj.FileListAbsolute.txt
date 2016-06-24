@@ -1,0 +1,41 @@
+C:\Users\anton\Desktop\testBot\testBot\bin\Debug\testBot.exe.config
+C:\Users\anton\Desktop\testBot\testBot\obj\Debug\testBot.csprojResolveAssemblyReference.cache
+C:\Users\anton\Desktop\testBot\testBot\bin\Debug\testBot.exe
+C:\Users\anton\Desktop\testBot\testBot\bin\Debug\testBot.pdb
+C:\Users\anton\Desktop\testBot\testBot\bin\Debug\HtmlAgilityPack.dll
+C:\Users\anton\Desktop\testBot\testBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\anton\Desktop\testBot\testBot\bin\Debug\VkNet.dll
+C:\Users\anton\Desktop\testBot\testBot\obj\Debug\testBot.exe
+C:\Users\anton\Desktop\testBot\testBot\obj\Debug\testBot.pdb
+E:\OneDrive\WORK\testBot\testBot\bin\Debug\testBot.exe.config
+E:\OneDrive\WORK\testBot\testBot\obj\Debug\testBot.exe
+E:\OneDrive\WORK\testBot\testBot\obj\Debug\testBot.pdb
+E:\OneDrive\WORK\testBot\testBot\bin\Debug\testBot.exe
+E:\OneDrive\WORK\testBot\testBot\bin\Debug\testBot.pdb
+E:\OneDrive\WORK\testBot\testBot\obj\Debug\testBot.csprojResolveAssemblyReference.cache
+C:\Users\anton\OneDrive\WORK\testBot\testBot\bin\Debug\testBot.exe.config
+C:\Users\anton\OneDrive\WORK\testBot\testBot\obj\Debug\testBot.exe
+C:\Users\anton\OneDrive\WORK\testBot\testBot\obj\Debug\testBot.pdb
+C:\Users\anton\OneDrive\WORK\testBot\testBot\bin\Debug\testBot.exe
+C:\Users\anton\OneDrive\WORK\testBot\testBot\bin\Debug\testBot.pdb
+C:\Users\anton\OneDrive\WORK\testBot\testBot\obj\Debug\testBot.csprojResolveAssemblyReference.cache
+E:\OneDrive\WORK\testBot\testBot\bin\Debug\ConsoleBot.dll
+E:\OneDrive\WORK\testBot\testBot\bin\Debug\AIMLbot.dll
+E:\OneDrive\WORK\testBot\testBot\bin\Debug\ConsoleBot.pdb
+E:\OneDrive\WORK\testBot\testBot\bin\Debug\AIMLbot.pdb
+C:\Users\anton\OneDrive\WORK\testBot\testBot\bin\Debug\AIMLbot.dll
+C:\Users\anton\OneDrive\WORK\testBot\testBot\bin\Debug\ConsoleBot.pdb
+C:\Users\anton\OneDrive\WORK\testBot\testBot\bin\Debug\AIMLbot.pdb
+C:\Users\anton\OneDrive\WORK\testBot\testBot\bin\Debug\VkNet.dll
+C:\Users\anton\OneDrive\WORK\testBot\testBot\bin\Debug\VkNet.pdb
+C:\Users\anton\OneDrive\WORK\testBot\testBot\bin\Debug\VkNet.xml
+E:\OneDrive\WORK\testBot\testBot\bin\Debug\VkNet.dll
+E:\OneDrive\WORK\testBot\testBot\bin\Debug\VkNet.pdb
+E:\OneDrive\WORK\testBot\testBot\bin\Debug\VkNet.xml
+C:\Users\anton\Desktop\Новая папка (2)\testBot\bin\Debug\testBot.exe.config
+C:\Users\anton\Desktop\Новая папка (2)\testBot\obj\Debug\testBot.exe
+C:\Users\anton\Desktop\Новая папка (2)\testBot\obj\Debug\testBot.pdb
+C:\Users\anton\Desktop\Новая папка (2)\testBot\bin\Debug\testBot.exe
+C:\Users\anton\Desktop\Новая папка (2)\testBot\bin\Debug\testBot.pdb
+C:\Users\anton\Desktop\Новая папка (2)\testBot\bin\Debug\AIMLbot.pdb
+C:\Users\anton\Desktop\Новая папка (2)\testBot\obj\Debug\testBot.csprojResolveAssemblyReference.cache
